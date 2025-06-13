@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+* {
+  margin: 0;
+  padding: 0;
+  /* border: 1px solid red; */
+}
+
+.slick-list {
+  /* height: 3rem; */
+}
